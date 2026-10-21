@@ -1,0 +1,14 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# WorkBuddy 本地数据（勿提交）
+.workbuddy/
